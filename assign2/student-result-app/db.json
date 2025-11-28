@@ -1,0 +1,16 @@
+{
+  "students": [],
+  "sections": [
+    {
+      "id": 1,
+      "name": "Section A",
+      "description": "Morning batch students"
+    },
+    {
+      "id": 2,
+      "name": "Section B",
+      "description": "Afternoon batch students"
+    }
+  ],
+  "results": []
+}

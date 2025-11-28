@@ -1,0 +1,18 @@
+{
+  "name": "student-result-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "parcel public/index.html --port 5173",
+    "build": "parcel build public/index.html",
+    "server": "json-server --watch db.json --port 3001"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.4",
+    "parcel": "^2.12.0"
+  }
+}
